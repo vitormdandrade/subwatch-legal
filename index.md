@@ -1,3 +1,8 @@
+---
+layout: default
+title: SubWatch Privacy Policy
+---
+
 # SubWatch Privacy Policy
 
 **Last updated: 2026-04-20**
