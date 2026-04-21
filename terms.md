@@ -1,17 +1,17 @@
 ---
 layout: default
-title: SubWatch Terms of Service
+title: Offsub Terms of Service
 ---
 
-# SubWatch Terms of Service
+# Offsub Terms of Service
 
 **Last updated: 2026-04-20**
 
-By downloading, installing, or using SubWatch ("the app"), you agree to these terms. If you do not agree, do not use the app.
+By downloading, installing, or using Offsub ("the app"), you agree to these terms. If you do not agree, do not use the app.
 
 ## 1. What you are buying
 
-SubWatch is a one-time purchase. When you buy it from Google Play, you receive a perpetual, non-exclusive, non-transferable license to use the app on any Android device signed in with your Google Play account, for personal, non-commercial use. There is no subscription to SubWatch itself and no recurring charge.
+Offsub is a one-time purchase. When you buy it from Google Play, you receive a perpetual, non-exclusive, non-transferable license to use the app on any Android device signed in with your Google Play account, for personal, non-commercial use. There is no subscription to Offsub itself and no recurring charge.
 
 Any future optional paid upgrade ("Pro features") is also one-time and does not renew.
 
@@ -25,11 +25,11 @@ Refunds are handled by Google Play under [Google Play's refund policy](https://s
 
 ## 4. Your data
 
-SubWatch does not collect your personal data. See the [Privacy Policy](./privacy) for the full explanation. You are responsible for backing up your own subscription data if you consider it valuable (for example, by periodically exporting it, if that feature is available, or by using Android's system backup).
+Offsub does not collect your personal data. See the [Privacy Policy](./privacy) for the full explanation. You are responsible for backing up your own subscription data if you consider it valuable (for example, by periodically exporting it, if that feature is available, or by using Android's system backup).
 
 ## 5. Acceptable use
 
-You may use SubWatch for any lawful personal purpose. You may not:
+You may use Offsub for any lawful personal purpose. You may not:
 
 - Reverse engineer the app except to the extent such restriction is prohibited by applicable law;
 - Resell, sublicense, or redistribute the app;
@@ -37,7 +37,7 @@ You may use SubWatch for any lawful personal purpose. You may not:
 
 ## 6. Warranty disclaimer
 
-SubWatch is provided "as is" without warranties of any kind, express or implied. I do not guarantee the app is bug-free, will meet your specific needs, or will calculate renewal dates correctly in every edge case. Always double-check critical dates against your actual billing statements.
+Offsub is provided "as is" without warranties of any kind, express or implied. I do not guarantee the app is bug-free, will meet your specific needs, or will calculate renewal dates correctly in every edge case. Always double-check critical dates against your actual billing statements.
 
 ## 7. Limitation of liability
 
@@ -47,7 +47,7 @@ Nothing in these terms limits liability that cannot be limited under applicable 
 
 ## 8. Termination
 
-You can stop using SubWatch at any time by uninstalling it. I may discontinue the app with reasonable notice through the Google Play listing. If I discontinue the app, existing installs continue to work on your device; I am not obligated to issue retroactive refunds except where required by Google Play policy or consumer law.
+You can stop using Offsub at any time by uninstalling it. I may discontinue the app with reasonable notice through the Google Play listing. If I discontinue the app, existing installs continue to work on your device; I am not obligated to issue retroactive refunds except where required by Google Play policy or consumer law.
 
 ## 9. Changes
 
